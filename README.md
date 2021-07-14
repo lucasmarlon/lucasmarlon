@@ -3,32 +3,16 @@
     Hello! I'm Lucas.
     <br />
     <a target="_blank" href="https://www.linkedin.com/in/lucasmarlonliramarques/">
-      <img
-        alt="Linkedin"
-        width="22px"
-        src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/linkedin.svg"
-      />
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="30" />
     </a>&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="https://www.instagram.com/lucas.marlon/">
-      <img
-        alt="Instagram"
-        width="22px"
-        src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/instagram.svg"
-      /> 
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" alt="instagram logo" width="30" /> 
     </a>&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="mailto:lucasmarlonliramarques@gmail.com">
-      <img
-        alt="Email"
-        width="22px"
-        src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/gmail.svg"
-      /> 
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="30" /> 
     </a>&nbsp;&nbsp;&nbsp;
     <a target="_blank" href="https://fb.com/lucasmarlonlm">
-      <img
-        alt="Facebook"
-        width="22px"
-        src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/facebook.svg"
-      /> 
+      <img src="https://raw.githubusercontent.com/HigorSnt/HigorSnt/1b6fab456bd620dc4ca1de9632218c54d967626d/.github/facebook.svg" alt="Facebook" height="30" /> 
     </a>&nbsp;&nbsp;&nbsp;
   </h1>
 </div>
